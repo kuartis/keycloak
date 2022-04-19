@@ -1,6 +1,6 @@
 # Keycloak with PostgreSQL
 
-## Usage
+## Usage
 
 ```yaml
 apiVersion: apps/v1
